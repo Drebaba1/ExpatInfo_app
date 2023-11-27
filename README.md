@@ -43,25 +43,23 @@ To run this app, you will need the following:
 ## Setup Authentication
 
 1. Google Sign-In
-   • Follow the Firebase documentation to Add Google Sign-In to Your Android App(https://firebase.google.com/docs/auth/android/google-signin) and Add Google Sign-In to Your iOS App(https://firebase.google.com/docs/auth/ios/google-signin).
-
-   • Update your Firebase project configuration.
-
-2. Facebook Sign-In
-
-To enable Facebook Sign-In:
-
-     • Follow the Firebase documentation to Add Facebook Sign-In to Your Android App(https://firebase.google.com/docs/auth/android/facebook-login) and Add Facebook Sign-In to Your iOS App(https://firebase.google.com/docs/auth/ios/facebook-login).
+     • Follow the Firebase documentation to [Add Google Sign-In to Your Android App](https://firebase.google.com/docs/auth/android/google-signin) and [Add Google Sign-In to Your iOS App](https://firebase.google.com/docs/auth/ios/google-signin).
 
      • Update your Firebase project configuration.
+
+2. Facebook Sign-In
+To enable Facebook Sign-In:
+
+• Follow the Firebase documentation to [Add Facebook Sign-In to Your Android App](https://firebase.google.com/docs/auth/android/facebook-login) and [Add Facebook Sign-In to Your iOS App](https://firebase.google.com/docs/auth/ios/facebook-login).
+
+• Update your Firebase project configuration.
 
 3.  Database
     Firestore
     To connect to Firestore:
 
-        • Ensure that Firestore is enabled for your Firebase project.
-
-         •Use the cloud_firestore(https://pub.dev/packages/cloud_firestore) package to interact with Firestore in your Flutter app.
+• Ensure that Firestore is enabled for your Firebase project.
+• Use the [cloud_firestore](https://pub.dev/packages/cloud_firestore) package to interact with Firestore in your Flutter app.
 
     ```
     dependencies:
@@ -75,11 +73,11 @@ To enable Facebook Sign-In:
 ```
 git clone https://github.com/Drebaba1/ExpatInfo_app.git
 ```
-
+• To get the neccesary dependencies,
 ```
 run flutter pub get
 ```
-
+• To build the app for testing,
 ```
 flutter run
 ```
