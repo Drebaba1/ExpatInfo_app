@@ -82,9 +82,6 @@ run flutter pub get
 flutter run
 ```
 
-## APK file
-
-You can download the APK file for this project [here]()
 
 ## Demo
 
