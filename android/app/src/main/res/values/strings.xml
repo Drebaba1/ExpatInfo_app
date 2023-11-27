@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <string name="app_name">ExpatInfo</string>
+    <string name="facebook_app_id">732276642256651</string>
+    <string name="fb_login_protocol_scheme">fb732276642256651</string>
+    <string name="facebook_client_token">adacc34e58166579771ead91282891d8</string>
+
+</resource>

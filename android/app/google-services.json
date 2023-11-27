@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987279641830",
+    "project_id": "expatinfo-auth",
+    "storage_bucket": "expatinfo-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987279641830:android:649e4218f4be938b2bff27",
+        "android_client_info": {
+          "package_name": "com.example.expat_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987279641830-57sbguo3k1tj6lpgr7poij5dr9fkreru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48M3fj4rx583BN6zoHZtScjD-g2Qr-RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987279641830-57sbguo3k1tj6lpgr7poij5dr9fkreru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
